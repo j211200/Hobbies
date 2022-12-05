@@ -148,6 +148,8 @@
 
 [Zwift](https://zwift.com/)
 
+[美骑](https://www.biketo.com/)
+
 ### Moto
 
 [骑士网](https://space.bilibili.com/84830087/)
