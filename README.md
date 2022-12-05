@@ -182,7 +182,9 @@
 
 ### Network
 
-[RTINGS](https://www.rtings.com/)
+[Acwifi](https://www.acwifi.net/)
+
+[koolCenter](https://www.koolcenter.com/)
 
 ### Server
 
