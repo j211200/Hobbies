@@ -313,6 +313,18 @@
 
 [理性派 HiFi](https://store.taobao.com/?shop_id=250919768 "理性派HiFi")
 
+### PC
+
+[ASUS](https://www.asus.com/us/)
+
+[GPD](https://store.taobao.com/?shop_id=435132042 "gamepaddigital旗舰店")
+
+[Steam Deck](https://store.steampowered.com/steamdeck)
+
+[糖豆二手平台](https://store.taobao.com/?spm=a1z0k.7385961.1997989141.2.799d37de7MN21n&shop_id=117716438)
+
+[壹号本](https://store.taobao.com/shop/view_shop.htm?user_number_id=2208333813530)
+
 ## Other
 
 ### Music
