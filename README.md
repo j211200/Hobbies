@@ -36,6 +36,8 @@
 
 [78模玩](https://www.78dm.net/)
 
+[HOPi](https://www.hpoi.net.cn/)
+
 [机械峡谷](https://store.taobao.com/?shop_id=69729975 "机械峡谷")
 
 [模玩地带](https://store.taobao.com/?shop_id=36262227 "模玩地带 人气店铺")
