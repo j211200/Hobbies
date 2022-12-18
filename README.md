@@ -122,6 +122,8 @@
 
 [Knife Informer](https://knifeinformer.com/)
 
+[Mantis](https://mantisx.com/)
+
 [成都沧海射箭器材](https://shop112592364.taobao.com/)
 
 ### Camping
