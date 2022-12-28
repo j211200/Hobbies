@@ -84,10 +84,6 @@
 
 [哈罗CQ火腿社区](https://www.hellocq.net/forum/)
 
-[SDR RF 射频实验室](https://store.taobao.com/?shop_id=33740416 "SDR RF 射频实验室")
-
-[天空通讯无线电](https://store.taobao.com/?shop_id=33997322 "天空通讯无线电")
-
 ## Outdoor
 
 ### Astronomical
@@ -360,52 +356,3 @@
 [蚂蚁牧场](https://aimayi.taobao.com/)
 
 [鸟语花香](https://store.taobao.com/?shop_id=193445159 "鸟语花香宠物用品旗舰店")
-
-## DIY
-
-### Tools
-
-[Pro Tool Reviews](https://www.protoolreviews.com/)
-
-[乔工社](https://space.bilibili.com/396933253)
-
-[云工厂](https://www.yungc.com/)
-
-[玩个木头](https://plawood.taobao.com/)
-
-[iBrand](https://shop290980926.taobao.com/)
-
-[小猴工具旗舰店](https://store.taobao.com/?shop_id=298224593 "小猴工具旗舰
-店")
-
-[Wowstick](https://store.taobao.com/?shop_id=401078774 "wowstick工具旗舰店")
-
-[Devon 大有工具](https://www.devon.com.cn/)
-
-[WORX 威克士](https://www.worxmjf.com/)
-
-### 3D Print
-
-[All3DP](https://all3dp.com/)
-
-[VORON Design](https://vorondesign.com/)
-
-[小树科技](https://www.minitree.fun/)
-
-[Cura](https://ultimaker.com/software/ultimaker-cura)
-
-[PrusaSlicer](https://www.prusa3d.com/)
-
-[Simplify3D](https://www.simplify3d.com/)
-
-[未来工场旗舰店](https://store.taobao.com/?shop_id=295710682 "未来工场旗舰店")
-
-[Snapmaker](https://store.taobao.com/?shop_id=299979239 "snapmaker旗舰店")
-
-[创想三维旗舰店](https://store.taobao.com/?shop_id=312173316 "创想三维旗舰店")
-
-[小树科技](https://store.taobao.com/?shop_id=61516372 "小树科技正品店")
-
-### PCB
-
-[嘉立创旗舰店](https://store.taobao.com/?shop_id=400371330 "嘉立创旗舰店")
