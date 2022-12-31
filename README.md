@@ -126,6 +126,8 @@
 
 [成都沧海射箭器材](https://shop112592364.taobao.com/)
 
+[Pelican](https://www.pelican.com/)
+
 ### Camping
 
 [8264](https://www.8264.com/)
