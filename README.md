@@ -128,6 +128,8 @@
 
 [Pelican](https://www.pelican.com/)
 
+[海康微影]
+
 ### Camping
 
 [8264](https://www.8264.com/)
@@ -154,7 +156,7 @@
 
 ### Equipment
 
-[ 博冠](https://www.bosma.com.cn/)
+[博冠](https://www.bosma.com.cn/)
 
 [Fenix](https://www.fenixlighting.com/)
 
@@ -163,6 +165,7 @@
 [Garmin](https://store.taobao.com/?shop_id=394411899 "Garmin佳明官方旗舰店")
 
 [EcoFlow](https://www.ecoflow.com/)
+
 
 ## Sports
 
