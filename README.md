@@ -14,6 +14,8 @@
 
 [魔爪旗舰店](https://store.taobao.com/?shop_id=327830681 "moza魔爪旗舰店")
 
+[LogitechG](https://www.logitechg.com)
+
 ### RC
 
 [5iMX](http://www.5imx.com/)
@@ -27,6 +29,8 @@
 [RC MINI 车店](https://store.taobao.com/?shop_id=35044601 "RC MINI车店")
 
 [Acc FPV](https://shop400200323.taobao.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.1cea37dewjAknQ&shop_id=400200323)
+
+[Traxxas](https://traxxas.com/)
 
 ### Model
 
@@ -126,10 +130,6 @@
 
 [成都沧海射箭器材](https://shop112592364.taobao.com/)
 
-[Pelican](https://www.pelican.com/)
-
-[海康微影]
-
 ### Camping
 
 [8264](https://www.8264.com/)
@@ -154,6 +154,8 @@
 
 [火枫旗舰店](https://store.taobao.com/?shop_id=113640654 "火枫旗舰店")
 
+[迪卡侬](https://www.decathlon.com.cn/zh/p/roof-tent-mh500-fresh-black-2p/_/R-p-331938?mc=8642422)
+
 ### Equipment
 
 [博冠](https://www.bosma.com.cn/)
@@ -166,6 +168,13 @@
 
 [EcoFlow](https://www.ecoflow.com/)
 
+[Pelican](https://www.pelican.com/)
+
+[海康微影](https://www.hikmicrotech.com/)
+
+[彩虹光学](https://shop73486557.taobao.com/)
+
+[艾美能特](https://m.tb.cn/h.UkDgkW6?tk=P3gid4HOx9f)
 
 ## Sports
 
@@ -380,14 +389,29 @@
 
 [iBrand](https://shop290980926.taobao.com/)
 
-[小猴工具旗舰店](https://store.taobao.com/?shop_id=298224593 "小猴工具旗舰
-店")
+[小猴工具旗舰店](https://store.taobao.com/?shop_id=298224593)
 
 [Wowstick](https://store.taobao.com/?shop_id=401078774 "wowstick工具旗舰店")
 
 [Devon 大有工具](https://www.devon.com.cn/)
 
 [WORX 威克士](https://www.worxmjf.com/)
+
+[Wiha](http://www.wiha.com.cn/)
+
+[SATA](https://www.satatools.us/)
+
+[iFixit](https://www.ifixit.com/Store)
+
+POWER8Workshop
+
+杜克工具
+
+PB SWISS TOOLS
+
+Wera
+
+吉米家居
 
 ### 3D Print
 
