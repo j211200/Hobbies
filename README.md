@@ -331,6 +331,8 @@
 
 [理性派 HiFi](https://store.taobao.com/?shop_id=250919768 "理性派HiFi")
 
+[漫步者](https://www.edifier.com/cn/)
+
 ### PC
 
 [ASUS](https://www.asus.com/us/)
